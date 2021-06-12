@@ -6,7 +6,7 @@ software please install selenium webdriver with pip installer
 
 once you have installed the library, you need to call the library selenium and the function facebot:
 
-from facebot import facebot
+	from facebot import facebot
 
 
 	facebot.put(
