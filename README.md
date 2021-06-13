@@ -26,7 +26,7 @@ offset: the delay of an action in seconds
 driver: the driver you are using
 
 
-this "library" is so easy to use and if you need "help" to know how to use it please do not hesitate to enter in the examples folder 
+this "library" is so easy to use, if you need "help" to know how to use it, please do not hesitate to enter in the examples folder 
  
 a simple example would be like this:
 
